@@ -3,24 +3,6 @@
 Crash Inspector - every crash and error on this computer, in one window.
 
 For Ubuntu 26.04 LTS (works on any systemd distro with GTK 4 + libadwaita).
-
-Collects, for the selected time range:
-  * previous boots that ended abruptly (freeze / panic / power loss)
-  * kernel panics, Oops/BUG, kernel WARNING traces, lockups, hung tasks
-  * program crashes (kernel segfault lines, systemd-coredump, Apport /var/crash)
-  * out-of-memory kills (kernel OOM killer, systemd-oomd, earlyoom)
-  * GPU errors, disk/filesystem errors, hardware (MCE/EDAC/PCIe/ACPI/thermal)
-  * failed / crashed systemd services
-  * desktop session errors (GNOME Shell, Xwayland, PipeWire...)
-  * every other message logged at error level or above
-
-Usage:
-  crash-inspector                 open the window
-  crash-inspector --text          print the report in the terminal (TTY / SSH)
-  crash-inspector --text --range boot1 > report.txt
-
-License: MIT - Copyright (c) 2026 cyb3rl00m
-Project:  https://github.com/cyb3rl00m/crash-inspector
 """
 
 import argparse
