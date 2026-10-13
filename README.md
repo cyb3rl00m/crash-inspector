@@ -9,10 +9,7 @@ probably mean.
 
 Made for **Ubuntu 26.04 LTS**. Works on any systemd-based distro with GTK 4 + libadwaita.
 
-<!-- Screenshots: put images in a "screenshots" folder and uncomment these lines
-![Overview](screenshots/overview.png)
-![Unexpected shutdowns](screenshots/shutdowns.png)
--->
+   ![Crash Inspector](crash-inspector.png)
 
 ## What it finds
 
