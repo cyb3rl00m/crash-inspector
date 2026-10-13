@@ -86,7 +86,7 @@ Bug reports and ideas are very welcome. The most helpful contributions:
 
 ## About this project
 
-Crash Inspector was built by [cyb3rl00m](https://github.com/cyb3rl00m) with the help of
+Crash Inspector was built by me [cyb3rl00m](https://github.com/cyb3rl00m) and with the help of
 Claude, an AI assistant by Anthropic, while tracking down random freezes on a Ryzen PC.
 It found the cause: a CPU Machine Check right after each freeze.
 
