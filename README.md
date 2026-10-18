@@ -11,6 +11,8 @@
 ![Ubuntu 26.04](https://img.shields.io/badge/Ubuntu-26.04%20LTS-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![GTK 4](https://img.shields.io/badge/GTK%204-libadwaita-4A86CF?style=flat-square&logo=gnome&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3-3776AB?style=flat-square&logo=python&logoColor=white)
+[![Made with Claude](https://img.shields.io/badge/made%20with-Claude-d97757)](#credits)
+
 
 [**Download**](https://github.com/cyb3rl00m/crash-inspector/releases/latest) ·
 [Features](#features) ·
